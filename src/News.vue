@@ -5,4 +5,4 @@
       Some news here.
     </p>
   </v-ons-page>
-</template>
+</template
